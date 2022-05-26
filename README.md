@@ -2,6 +2,4 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
  </div>
  <br>
-<center>
   ![Visitor Count](https://profile-counter.glitch.me/{XTRDevv}/count.svg)
-</center>
