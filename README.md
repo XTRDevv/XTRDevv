@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3og0IMaynocLIk5VUQ/giphy.gif" width="100"/>
-</div>
+![XTRDevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
